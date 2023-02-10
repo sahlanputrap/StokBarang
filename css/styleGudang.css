@@ -1,0 +1,6 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url("../img/packages.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
